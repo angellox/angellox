@@ -20,6 +20,7 @@ Hi, I’m @angellox this is my little summarize about me. I've been working on a
   - 🌝 Surely more...
   
 ### Projects: 
+  - Departamento de Telecomunicacions: soon. 
 
 <!---
 angellox/angellox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
