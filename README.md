@@ -20,7 +20,8 @@ Hi, I’m @angellox this is my little summarize about me. I've been working on a
   - 🌝 Surely more...
   
 ### Projects: 
-  - Departamento de Telecomunicacions: soon. 
+  <img src="https://github.com/angellox/icons_readme/blob/main/logo.png" width="350" alt="accessibility text">
+  :arrow_forward: Go: https://blogviajesangellox.netlify.app/index.html 
 
 <!---
 angellox/angellox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
