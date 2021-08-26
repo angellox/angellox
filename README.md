@@ -11,8 +11,13 @@ Hi, I’m @angellox this is my little summarize about me. I've been working on a
   - 🌝 Surely more...
   
 ### Projects: 
-  <img src="https://github.com/angellox/icons_readme/blob/main/logo.png" width="350" alt="accessibility text">
+  <img src="https://telecomfi.herokuapp.com/public/build/img/ingenieria_logo.png" width="350" alt="project #1">
+  :arrow_forward: Go: http://telecomfi.herokuapp.com/ 
+  <img src="https://github.com/angellox/icons_readme/blob/main/logo.png" width="350" alt="project #2">
   :arrow_forward: Go: https://blogviajesangellox.netlify.app/index.html 
+  <img src="https://github.com/angellox/icons_readme/blob/main/logo.svg" width="350" alt="project #3">
+  :watch: In progress... 
+  
 
 <!---
 angellox/angellox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
