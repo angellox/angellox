@@ -11,7 +11,7 @@ Hi, I’m @angellox this is my little summarize about me. I've been working on a
   - 🌝 Surely more...
   
 ### Projects: 
-  <img src="https://telecomfi.herokuapp.com/public/build/img/ingenieria_logo.png" width="250" alt="project #1">
+  <img src="https://github.com/angellox/icons_readme/blob/main/ingenieria_logo.png" width="250" alt="project #1">
   :arrow_forward: Go: http://telecomfi.herokuapp.com/ 
   
   <img src="https://github.com/angellox/icons_readme/blob/main/logo.png" width="350" alt="project #2">
