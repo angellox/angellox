@@ -12,17 +12,17 @@ Hi, I’m @angellox this is my little summarize about me. I've been working on a
   
 ### Projects: 
   <div style="padding: 10px 0;">
-    <img src="https://github.com/angellox/icons_readme/blob/main/ingenieria_logo.png" width="250" alt="project #1">
+    <img src="https://github.com/angellox/icons_readme/blob/main/ingenieria_logo.png" width="250" alt="project #1"> <br>
     :arrow_forward: Go: http://telecomfi.herokuapp.com/ 
   </div>
   
   <div style="padding: 10px 0;">
-    <img src="https://github.com/angellox/icons_readme/blob/main/logo.png" width="350" alt="project #2">
+    <img src="https://github.com/angellox/icons_readme/blob/main/logo.png" width="350" alt="project #2"> <br>
     :arrow_forward: Go: https://blogviajesangellox.netlify.app/index.html 
   </div>
   
   <div style=="padding: 10px 0;">
-    <img src="https://github.com/angellox/icons_readme/blob/main/logo.svg" width="350" alt="project #3">
+    <img src="https://github.com/angellox/icons_readme/blob/main/logo.svg" width="350" alt="project #3"> <br>
     :watch: In progress... 
   </div>
 
