@@ -23,7 +23,7 @@ Hi, I’m @angellox this is my little summarize about me. I've been working on a
   
   <div style=="padding: 10px 0;">
     <img src="https://github.com/angellox/icons_readme/blob/main/logo.svg" width="350" alt="project #3"> <br>
-    :watch: In progress... 
+    :arrow_forward: Go: https://gdlwebcampconference.netlify.app/ 
   </div>
 
 <!---
