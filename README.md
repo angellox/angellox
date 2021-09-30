@@ -5,9 +5,6 @@ Hi, I’m @angellox this is my little summarize about me. I've been working on a
 ### LANGUAGES:
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50"> 
 
-## FREAMWORKS:
-<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" height="50"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" height="50"> 
-
 ### PROJECTS: 
   <div style="padding: 10px 0;">
     <img src="https://github.com/angellox/icons_readme/blob/main/ingenieria_logo.png" width="250" alt="project #1"> <br>
