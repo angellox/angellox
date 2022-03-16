@@ -4,6 +4,12 @@ Hi, I’m @angellox this is my little summarize about me. I've been working on a
 
 P.D: I'm a really big fan of Linux, by the way. 
 
+### Github stats
+
+Github profile details     |  About my languages
+:-------------------------:|:-------------------------:
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angellox&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angellox&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Garage:
 <img src="https://cdn.cdnlogo.com/logos/l/11/linux.svg" height="60"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
 
