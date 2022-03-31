@@ -45,17 +45,17 @@ Github profile details     |  About my languages
 ### PROJECTS: 
   <div style="padding: 10px 0;">
     <img src="https://github.com/angellox/icons_readme/blob/main/ingenieria_logo.png" width="250" alt="project #1"> <br>
-    :arrow_forward: Go: http://telecomfi.herokuapp.com/
+    :arrow_forward: http://telecomfi.herokuapp.com/
   </div>
   
   <div style="padding: 10px 0;">
     <img src="https://github.com/angellox/icons_readme/blob/main/logo.png" width="350" alt="project #2"> <br>
-    :arrow_forward: Go: https://blogviajesangellox.netlify.app/index.html
+    :arrow_forward: https://blogviajesangellox.netlify.app/index.html
   </div>
   
   <div style=="padding: 10px 0;">
     <img src="https://github.com/angellox/icons_readme/blob/main/logo.svg" width="350" alt="project #3"> <br>
-    :arrow_forward: Go: https://gdlwebcampconference.netlify.app/
+    :arrow_forward: https://gdlwebcampconference.netlify.app/
   </div>
 
 <!---
