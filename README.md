@@ -28,7 +28,6 @@ Github profile details     |  About my languages
 
 ### Extra Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### PROJECTS: 
   <div style="padding: 10px 0;">
