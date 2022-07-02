@@ -32,7 +32,7 @@ Github profile details     |  About my languages
 ### PROJECTS: 
   <div style="padding: 10px 0;">
     <img src="https://github.com/angellox/icons_readme/blob/main/ingenieria_logo.png" width="250" alt="project #1"> <br>
-    :arrow_forward: http://telecomfi.herokuapp.com/
+    :arrow_forward: https://labstelecom.unam.mx/
   </div>
   
   <div style="padding: 10px 0;">
