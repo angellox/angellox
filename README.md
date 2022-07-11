@@ -1,6 +1,6 @@
 ### Ángel Cruz - @angellox
 
-Hi, I’m @angellox this is my little summarize about me. I've been working on a wide variety of projects about web design and AI, you'll be able to check them soon. I like to experiment with programming and things related to telecommunications for allowing people keep communicated. I hope you're here because you got a love for programming & technology like me.
+Hi, I’m @angellox (Ángel De La Cruz) this is my little summarize about me. I've been working on a wide variety of projects about Web Design and AI. I love building applications with two special stacks MERN and LAMP (you can check them out on my GitHub), and also keeping updated of new technologies, frameworks, etc. I like to read data structures, algorithms and undergo with programming and things related to telecommunications to allow people to communicate. I hope you're here because you got a love for programming & technology like me.
 
 P.D: I'm a really big fan of Linux, by the way. 
 
