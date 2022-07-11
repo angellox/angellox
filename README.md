@@ -5,7 +5,6 @@ Hi, I’m @angellox this is my little summarize about me. I've been working on a
 P.D: I'm a really big fan of Linux, by the way. 
 
 ### Get in touch
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/angellox_o/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-cruz77/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/angelo_cruzs)
 
