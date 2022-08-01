@@ -31,13 +31,13 @@ Github profile details     |  About my languages
 
 ### PROJECTS: 
   <div style="padding: 10px 0;">
-    <img src="https://github.com/angellox/icons_readme/blob/main/ingenieria_logo.png" width="250" alt="project #1"> <br>
+    <img src="https://github.com/angellox/icons_readme/blob/main/ingenieria_logo.png" width="200" alt="project #1"> <br>
     :arrow_forward: https://labstelecom.unam.mx/
   </div>
   
-  <div style="padding: 10px 0;">
-    <img src="https://github.com/angellox/icons_readme/blob/main/logo.png" width="350" alt="project #2"> <br>
-    :arrow_forward: https://blogviajesangellox.netlify.app/index.html
+   <div style=="padding: 10px 0;">
+    <img src="https://github.com/angellox/icons_readme/blob/main/guitarla.PNG" width="250" alt="project #4"> <br>
+    :arrow_forward: https://guitarla-angelcruz160798-gmailcom.vercel.app/
   </div>
   
   <div style=="padding: 10px 0;">
@@ -45,9 +45,9 @@ Github profile details     |  About my languages
     :arrow_forward: https://gdlwebcampconference.netlify.app/
   </div>
   
-  <div style=="padding: 10px 0;">
-    <img src="https://github.com/angellox/icons_readme/blob/main/guitarla.PNG" width="350" alt="project #4"> <br>
-    :arrow_forward: https://guitarla-angelcruz160798-gmailcom.vercel.app/
+  <div style="padding: 10px 0;">
+    <img src="https://github.com/angellox/icons_readme/blob/main/logo.png" width="350" alt="project #2"> <br>
+    :arrow_forward: https://blogviajesangellox.netlify.app/index.html
   </div>
 
 <!---
