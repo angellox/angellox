@@ -41,7 +41,7 @@ Github profile details     |  About my languages
   </div>
   
   <div style="padding: 10px 0;">
-    <img src="https://github.com/angellox/icons_readme/blob/main/logo.svg" width="350" alt="project #3"> <br>
+    <img src="https://github.com/angellox/icons_readme/blob/main/coffee_shop.svg" width="150" alt="project #3"> <br>
     :arrow_forward: https://coffee-shop-production.up.railway.app/
   </div>
 
