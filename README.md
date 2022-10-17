@@ -33,11 +33,6 @@ P.D: I'm a really big fan of Linux, by the way.
     <img src="https://github.com/angellox/icons_readme/blob/main/guitarla.PNG" width="250" alt="project #2"> <br>
     :arrow_forward: https://guitarla-angelcruz160798-gmailcom.vercel.app/
   </div>
-  
-  <div style="padding: 10px 0;">
-    <img src="https://github.com/angellox/icons_readme/blob/main/coffee_shop.svg" width="150" alt="project #3"> <br>
-    :arrow_forward: https://coffee-shop-production.up.railway.app/
-  </div>
 
 <!---
 angellox/angellox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
